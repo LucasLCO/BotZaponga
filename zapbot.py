@@ -24,6 +24,3 @@ def BotZap(modo):
         time.sleep(20)
         while True:
             pyautogui.click()
-
-
-BotZap('F')
